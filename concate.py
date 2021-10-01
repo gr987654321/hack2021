@@ -8,7 +8,7 @@ def numConcat(num1, num2):
         # Concatenate the strings
         num1 += num2
           
-        return num1
+        return int(num1)
   
   
 # Driver's code
