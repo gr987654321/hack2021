@@ -19,6 +19,6 @@ for i in range(int(input())):
 #5
 #1 2 3 5 6
 #9
-#9 8 5 6 3 2 1 4 7
+#9 8 5 6 3 2 1 4 5
 #sample output
 #True
