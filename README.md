@@ -10,5 +10,5 @@ Feel free to post your codes here.
 ### How to contribute?
 Please check [CONTRIBUTING GUIDELINES](contributors.md) for further instructions.
 
-Follow Code of Conduct
-Please check CODE OF CONDUCT for further instructions.
+### Follow Code of Conduct
+Please check [CODE OF CONDUCT](code-of-conduct.md) for further instructions.
