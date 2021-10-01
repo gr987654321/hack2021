@@ -6,7 +6,7 @@ Please star ⭐🌟⭐ & Fork 🍴 the Repository. So,that you can be benefited 
 Note: ONLY C++ CODES ARE ACCEPTED
 Please make sure to update tests as appropriate.
 How to contribute?
-Please check CONTRIBUTING GUIDELINES for further instructions.
+Please check [CONTRIBUTING GUIDELINES](contributors.md) for further instructions.
 
 Follow Code of Conduct
 Please check CODE OF CONDUCT for further instructions.
