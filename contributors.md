@@ -11,8 +11,7 @@ where username is your GitHub account username.
 3. Create a branch where you can do your local work.
 Never work on **master**/**main** branch as we do not allow master commits except by admins.
 ```
-$ git branch {branchname}
-$ git checkout branchname
+$ git checkout -b branchname
 ```
 
 4. Do your work and stage your changes.
@@ -22,12 +21,11 @@ $ git add <filename>
 
 5. Commit you changes with a commit message containing your name, file(s) worked upon, changes added.
 ```
-$ git commit -m "Name| files| Changes"
+$ git commit -m "Files| Changes"
 ```
 
 6. Push changes to your forked repository
 ```
 $ git push -u origin branchname
 ```
-7. Create a pull request to the upstream repository.
-s
+
