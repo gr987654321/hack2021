@@ -4,7 +4,7 @@
 
 2. Clone the repository to your local machine
 ```
-$ git clone "https://www.github.com/{Username}/CPP-Programming.git"
+$ git clone "https://www.github.com/{Username}/hack2021.git"
 ```
 where username is your GitHub account username.
 
